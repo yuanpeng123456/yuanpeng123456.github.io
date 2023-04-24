@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yuan</title>
+  
+  <subtitle>Yuan的博客</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-04-24T04:36:30.987Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>yuan peng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vue3</title>
+    <link href="http://example.com/posts/d760.html"/>
+    <id>http://example.com/posts/d760.html</id>
+    <published>2023-04-23T12:39:54.000Z</published>
+    <updated>2023-04-24T04:36:30.987Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span class=&quot;github-emoji&quot;&gt;&lt;span&gt;😄&lt;/span&gt;&lt;img src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
